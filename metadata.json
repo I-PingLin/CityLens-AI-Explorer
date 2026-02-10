@@ -1,0 +1,7 @@
+{
+  "name": "CityLens AI Explorer",
+  "description": "Discover the hidden history of urban landmarks. Snap a photo, and let AI identify, research, and narrate the story of the world around you using real-time Google Search data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
